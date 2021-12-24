@@ -115,6 +115,20 @@ body {
     margin-top: -0.6rem;
 }
 
+.investors .box-1 {
+    background: #D5905B;
+    width: 70px;
+    height: 0.1rem;
+    margin-left: 14rem;
+    margin-top: -0.7rem;
+}
+
+.box-4 {
+    background: #24252D;
+    height: 32rem;
+    margin-top: 14rem;
+}
+
 .input-wrap {
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -253,7 +267,7 @@ body {
     display: flex;
     margin-top: 10rem;
     height: 36rem;
-    margin-left: 60rem;
+    margin-left: 62rem;
     padding: 0;
 }
 
@@ -282,6 +296,7 @@ body {
 }
 
 .feature .a-1 p {
+    margin-top: .1rem;
     margin-left: 12rem;
     font-size: .8rem;
     color: #666666;
@@ -300,6 +315,7 @@ body {
 }
 
 .feature .a-2 p {
+    margin-top: .1rem;
     margin-left: 36rem;
     font-size: .8rem;
     color: #666666;
@@ -317,6 +333,7 @@ body {
 }
 
 .feature .a-3 p {
+    margin-top: .1rem;
     margin-left: 12rem;
     font-size: .8rem;
     color: #666666;
@@ -336,7 +353,177 @@ body {
 }
 
 .feature .a-4 p {
+    margin-top: .1rem;
     margin-left: 36rem;
     font-size: .8rem;
     color: #666666;
+}
+
+.feature {
+    margin-left: 1rem;
+}
+
+/* INVESTORS */
+
+.investors .box-3 {
+    background: #24252D;
+    height: auto;
+    height: 22rem;
+    padding: 0;
+    margin-top: 12rem;
+}
+
+.investors h1 {
+    color: #D5905C;
+    font-size: 1.2rem;
+    margin-left: 7rem;
+    margin-top: -16rem;
+}
+
+.investors h2 {
+    color: white;
+    font-size: 2.8rem;
+    margin-left: 7rem;
+    margin-top: 3rem;
+}
+
+.logo img {
+    margin-left: 58rem;
+    height: 10rem;
+    margin-top: -11rem;
+}
+
+/* BUYERS / BROKER */
+
+.buyers img {
+    margin-left: 7rem;
+    height: 27rem;
+    margin-top: 17rem;
+}
+
+.buyers h1 {
+    font-size: 3rem;
+    margin-left: 48rem;
+    margin-top: -25rem;
+    color: #D5905C;
+}
+
+.buyers p {
+    margin-left: 48rem;
+    font-size: 1.5rem;
+    color: #666666;
+    margin-top: 3rem;
+}
+
+.buyers .right .btn {
+    margin-left: 48rem;
+    padding-right: 5rem;
+    padding-left: 5rem;
+}
+
+.broker img {
+    margin-left: 59rem;
+    height: 27rem;
+    margin-top: 11rem;
+}
+
+.broker h1 {
+    font-size: 3rem;
+    margin-left: 7rem;
+    margin-top: -25rem;
+    color: #D5905C;
+}
+
+.broker p {
+    margin-left: 7rem;
+    font-size: 1.5rem;
+    color: #666666;
+    margin-top: 3rem;
+}
+
+.broker .right .btn {
+    margin-left: 7rem;
+    padding-right: 5rem;
+    padding-left: 5rem;
+}
+
+/* footer */
+
+.box-4 img {
+    height: 4rem;
+    margin-left: 7rem;
+    margin-top: 7rem;
+}
+
+.box-4 .box-2 {
+    background: #2F2F36;
+    width: 103.9rem;
+    height: 0.15rem;
+    margin-left: 1px;
+    margin-top: 12rem;
+}
+
+.box-4 .a-2 {
+    padding: 1rem;
+   
+    border: none;
+    background: #2F2F36;
+    color: #D5905C;
+    margin-right: 8rem;
+    padding-bottom: 1.5rem;
+    padding-top: 1.5rem;
+    margin-left: 63rem;
+    margin-top: 3.5rem;
+    padding-right: 8rem;
+}
+
+.box-4 p {
+    margin-left: 42rem;
+    color: white;
+    margin-top: -3.5rem;
+}
+
+.box-4 a {
+    text-decoration: none;
+    color: white;
+}
+
+.box-4 h3 {
+    color: white;
+    font-size: 1.5rem;
+    margin-left: 63rem;
+    margin-top: -8rem;
+}
+
+.box-4 .btn {
+    padding: 1.2rem 5rem;
+    margin-left: -7rem;
+}
+
+.box-4 .box-3 {
+    background: #666666;
+    width: 103.9rem;
+    height: 0.1rem;
+    margin-top: 9rem;
+}
+
+.p-1 {
+    font-size: 0.8rem;
+    margin-top: -3.5rem;
+    color: white;
+    margin-left: 94rem;
+}
+
+.p-2 {
+    font-size: 0.8rem;
+    margin-top: -1rem;
+    color: white;
+    margin-left: 85rem;
+}
+
+.p-3 {
+    font-size: 0.8rem;
+    margin-top: -1rem;
+    color: white;
+    margin-left: 75rem;
 }
